@@ -77,7 +77,7 @@ export const Navbar = () => {
                     leftIcon={<Icon w={'30px'} h={'30px'} as={FaLinkedin} />}
                     
                 >
-                    <a href="https://www.github.com/sudodevop" target="_blank">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/sudodevop" target="_blank">LinkedIn</a>
                 </Button>
             </Center>
         </Flex >
