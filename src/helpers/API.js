@@ -1,3 +1,3 @@
-export const weatherAppAPI = "c0d290eeee9dd399b017a6d2ba64be7e";
+export const weatherAppAPI = "02658aceb2f1057cfda44df327bf46f9";
 
 export const googleMapAPI = "AIzaSyAq15HbfCRMW7RqNb5LUNyOLyfzpYI0wl4";
